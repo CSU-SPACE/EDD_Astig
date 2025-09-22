@@ -1,0 +1,6 @@
+# Ignore dataset and model weights
+EED-Astig/
+pth/
+
+# Ignore compressed files
+*.zip
