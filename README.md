@@ -139,3 +139,13 @@ The following pre-trained model weights are provided in the `pth/` directory (do
 * `pth/eyelash.pth`: For detecting the start and end points of eyelashes.
 
 These weights are core assets of this project.
+
+## 7. Acknowledgements
+
+The completion of this project would not have been possible without the support of the incredible open-source community and its powerful tools. We would like to extend our special thanks to the following projects for their significant contributions:
+
+* **[MMPose](https://github.com/open-mmlab/mmpose)**: For providing a high-performance and accurate framework for eye and eyelash keypoint detection.
+* **[MMSegmentation](https://github.com/open-mmlab/mmsegmentation)**: An excellent semantic segmentation toolbox that was crucial for the cornea segmentation task in this project.
+* **[Scikit-learn](https://github.com/scikit-learn/scikit-learn)**: For offering a rich and robust library of machine learning models and tools, which formed the foundation for our final astigmatism classification.
+
+Our sincere gratitude goes to the developers and contributors of these open-source projects for their invaluable work that accelerates the pace of scientific research and innovation.
