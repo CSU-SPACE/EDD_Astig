@@ -16,7 +16,7 @@ The dataset and pre-trained model weights are too large to be hosted on GitHub d
     * Unzip it and ensure the resulting `EED-Astig` folder is placed in the root directory of this project.
 
 2.  **Download the Model Weights (from Google Drive)**:
-    * **Click this link to download the model weights from Google Drive: [Google Drive Link](https://drive.google.com/drive/folders/1nmKPj-Ya9ovyu2MgFmfiW23rO9auplHF?usp=drive_link)**
+    * **Click this link to download the model weights from Google Drive: [Google Drive Link](https://drive.google.com/drive/folders/1840yaBTjqvfVm67bN9fzjMFljCcb_FS5?usp=sharing)**
     * From the Google Drive page, download the `pth.zip` file.
     * Unzip it and ensure the resulting `pth` folder is placed in the root directory of this project.
 
